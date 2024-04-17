@@ -1,0 +1,32 @@
+.RED{
+    color: red;
+}
+
+#BLUE{
+    color: blue;
+}
+
+h1[class]{
+    background-color: black;
+}
+
+.RED.PINK{
+    color: pink;
+}
+
+.A,.B{
+    color: purple;
+}
+
+
+.A{
+    background-color: red;
+}
+.B{
+    background-color: gray;
+}
+
+
+.C .D{
+    color: yellow;
+}
